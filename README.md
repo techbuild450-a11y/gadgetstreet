@@ -46,7 +46,7 @@ https://gadgetstreet.netlify.app/
 |---|---|
 | Mohamed Jafar Sathik A | Team Lead (SPOC) |
 | Swetharekha | Research Analyst |
-| RMidhun | Developer |
+| R Midhunvarshan | Developer |
 | Sugavaneshwaran S | Tester |
 | Janani M | Documentation Lead |
 
